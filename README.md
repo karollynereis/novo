@@ -8,4 +8,4 @@ Você pode entrar em contato comigo 📫
 karollyne.reis@escola.pr.gov.br
 
 @alurastartestudante
-![](https://imgcdn.sigstick.com/m8silb5DCF077KZruoqW/1-1.png)
+
