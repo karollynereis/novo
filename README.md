@@ -9,4 +9,4 @@ karollyne.reis@escola.pr.gov.br
 
 @alurastartestudante
 
-![](https://imgcdn.sigstick.com/m8silb5DCF077KZruoqW/1-1.png)
+![](https://i.pinimg.com/originals/71/81/3f/71813f659a0b735ede70b2f7d56b1807.gif)
