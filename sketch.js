@@ -1,15 +1,11 @@
-function setup() {
-  createCanvas(600, 600);
-   background("black");
-}
+const avanca = document.querySelectorAll('.btn-proximo');
 
+avanca.forEach(button => {
+    button.addEventListener('click', function(){
+        const atual = document.querySelector('.ativo');
+        const proximoPasso = 'passo-' + this.getAttribute('data-proximo');
 
-function draw() {
-  
-  stroke ("blue");
-  fill ("red");
-  
-  if (mouseIsPressed){
-    rect(mouseX, mouseY, 20, 35);
-  }
-}
+        atual.classList.remove('ativo');
+        document.getElementById(proximoPasso).classList.add('ativo');
+    })
+})
